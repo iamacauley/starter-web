@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<!--
+    Copyright 2014 Git.Training
+<<<<<<< HEAD
+    Some random changes made in the master branch version
+=======
+    These changes are from the feature
+    branch bigtrouble
+>>>>>>> Feature branch - adding some conflicts to simple.html
+-->
+<head>
+	<title>Random Changes on the Master Branch</title>
+	<link rel="stylesheet" href="css/bootstrap.min.css">
+	<style>
+		body {
+			padding-top: 50px;
+			padding-bottom: 20px;
+		}
+	</style>
+	<link rel="stylesheet" href="css/bootstrap-theme.min.css">
+</head>
+<body>
+	<main class="container">
+	<!-- Junk filler content -->
+		<p>
+<<<<<<< HEAD
+			Just stuff for now,
+            due to be replaced soon, I hope
+=======
+			Just trouble and more
+>>>>>>> Feature branch - adding some conflicts to simple.html
+		</p>
+	</main>
+	<footer class="container">
+		<p>&copy; Company 2014</p>
+	</footer>
+</body>
+</html>
